@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently student at **SUPINFO**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Noa-trny](https://github.com/Noa-trny)
 
