@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently student at **SUPINFO**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Noa-trny](https://github.com/Noa-trny)
 
