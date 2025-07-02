@@ -3,7 +3,7 @@
 
 - 🎓 I’m currently student at **SUPINFO**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Looker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Noa-trny](https://github.com/Noa-trny)
 
