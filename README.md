@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Noa</h1>
-<h3 align="center">A passionate fullstack developer from France 🇫🇷</h3>
+<h3 align="center">A passionate fullstack developer from France <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/cc3ca8c1-c04e-4911-b1ad-b6e167eb22a2" alt="FR" />
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noa-trny&label=Profile%20views&color=0e75b6&style=flat" alt="noa-trny" /> </p>
 
