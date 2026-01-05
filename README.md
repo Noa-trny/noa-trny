@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noa-trny&label=Profile%20views&color=0e75b6&style=flat" alt="noa-trny" /> </p>
 
-- 🔭 I’m currently working on [a Looker cybersecurity monitoring dashboard for ADEO](https://github.com/adeo)
+- 🔭 I’m currently working on [a SEO project](https://essihault.me)
 
 - 🌱 I’m currently learning **Looker / LookML**
 
