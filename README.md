@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [a SEO project](https://essihault.me)
 
-- 🌱 I’m currently learning **Looker / LookML**
+- 🌱 I’m currently learning **Java**
 
 - 🎓 I’m currently student at **SUPINFO**
 
